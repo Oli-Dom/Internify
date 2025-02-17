@@ -11,3 +11,7 @@ Internify is a Kotlin-based app that helps users track and manage their internsh
 ## Dependencies
 
 - Room: For local database storage.
+
+## Screenshot
+![Internship App Screenshot](https://ibb.co/KpxTLMs7)
+
