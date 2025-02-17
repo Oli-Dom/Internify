@@ -8,6 +8,6 @@ Internify is a Kotlin-based app that helps users track and manage their internsh
 - **Sort Internships**: Easily sort internships by location and status.
 - **Status Tracking**: Track the status of your internship applications (e.g., Applied, Interviewing, Rejected, Offer).
 
-##Dependencies
+## Dependencies
 
 - Room: For local database storage.
